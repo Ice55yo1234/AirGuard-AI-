@@ -8,7 +8,7 @@
 **ลิงก์โปรแกรมและซอร์สโค้ด**
 
 - เว็บไซต์: Web: https://ice55yo1234.github.io/AirGuard-AI-/#project
-- GitHub: [ใส่ลิงก์ Repository ของโครงการจริง]
+- GitHub: https://github.com/Ice55yo1234/AirGuard-AI-/tree/main
 
 **แหล่งข้อมูลที่เกี่ยวข้อง**
 

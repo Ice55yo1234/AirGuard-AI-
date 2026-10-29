@@ -75,8 +75,8 @@ Khon Kaen University, Nong Khai Campus
 
 | รายการ | ลิงก์ |
 |---|---|
-| 🌐 เว็บไซต์ AirGuard AI | เพิ่มลิงก์เว็บไซต์ที่เปิดใช้งานจริง |
-| 💻 GitHub Repository | เพิ่มลิงก์ Repository นี้ |
+| 🌐 เว็บไซต์ AirGuard AI | Web: https://ice55yo1234.github.io/AirGuard-AI-/#project |
+| 💻 GitHub Repository | https://github.com/Ice55yo1234/AirGuard-AI- |
 | 🌤️ Open-Meteo | https://open-meteo.com/ |
 | 🌫️ CAMS | https://atmosphere.copernicus.eu/ |
 
@@ -443,8 +443,8 @@ http://localhost:8000
 
 ## 👨‍💻 ผู้พัฒนา
 
-**รพีภัทร ผาบพุทธา**  
-Rapeephat Phapphuttha
+**รพีภัทร ผาบพุทธา 663450045-2**
+**นางสาวสุธาสิณี วิชัยวงษ์ 663450311-7**  
 
 มหาวิทยาลัยขอนแก่น วิทยาเขตหนองคาย  
 Khon Kaen University, Nong Khai Campus
